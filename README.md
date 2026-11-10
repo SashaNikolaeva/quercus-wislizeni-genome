@@ -7,9 +7,7 @@ isolate QUWIS_CCGP_1), reported in the genome report by Nikolaeva et al. (in pre
 - Assemblies: GenBank GCA_023055345.2 (haplotype 1) and GCA_023055485.2 (haplotype 2)
 
 All steps were run on the Digital Research Alliance of Canada cluster Narval as SLURM shell scripts and Python
-scripts, without a workflow manager. Each script's header gives its inputs, outputs, parameters, software versions and
-how it was run. The paths (`/home/sashanik/...`, `~/scratch/...`), SLURM account and module names are specific to that
-cluster; change them before running elsewhere. Script prefixes: `rp` = assembly, `wg` = genome report analyses,
+scripts. Script prefixes: `rp` = assembly, `wg` = genome report analyses,
 `cg` = annotation steps shared with a comparative project.
 
 ## Scripts by paper section
