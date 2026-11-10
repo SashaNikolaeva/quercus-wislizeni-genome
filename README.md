@@ -7,8 +7,7 @@ isolate QUWIS_CCGP_1), reported in the genome report by Nikolaeva et al. (in pre
 - Assemblies: GenBank GCA_023055345.2 (haplotype 1) and GCA_023055485.2 (haplotype 2)
 
 All steps were run on the Digital Research Alliance of Canada cluster Narval as SLURM shell scripts and Python
-scripts. Script prefixes: `rp` = assembly, `wg` = genome report analyses,
-`cg` = annotation steps shared with a comparative project.
+scripts.
 
 ## Scripts by paper section
 
