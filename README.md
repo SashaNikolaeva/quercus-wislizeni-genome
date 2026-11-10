@@ -27,7 +27,3 @@ cluster; change them before running elsewhere. Script prefixes: `rp` = assembly,
 | Non-coding RNA genes, rDNA copy number | `wg22_trnascan.sh`, `wg23_barrnap.sh`, `wg22b_ncrna_summary.*`, `wg16_rdna_kmers.*` |
 | Transposable elements, Table 3, Figures 3-4 | `upstream/cg04_edta.sh`, `wg05_te_summary.*` |
 | Discussion (published oak assemblies on NCBI) | `wg29_ncbi_oak_assemblies.py` |
-
-## License
-
-MIT (see `LICENSE`).
